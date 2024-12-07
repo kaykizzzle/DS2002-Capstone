@@ -1,0 +1,2666 @@
+[
+	{
+		"fact_rental_key" : 334,
+		"rental_id" : 335,
+		"rental_date_key" : 20050527,
+		"customer_key" : 16,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 335,
+		"rental_id" : 336,
+		"rental_date_key" : 20050527,
+		"customer_key" : 275,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 336,
+		"rental_id" : 337,
+		"rental_date_key" : 20050527,
+		"customer_key" : 19,
+		"inventory_key" : 751,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 337,
+		"rental_id" : 338,
+		"rental_date_key" : 20050527,
+		"customer_key" : 165,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 338,
+		"rental_id" : 339,
+		"rental_date_key" : 20050527,
+		"customer_key" : 516,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 339,
+		"rental_id" : 340,
+		"rental_date_key" : 20050527,
+		"customer_key" : 209,
+		"inventory_key" : 946,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 340,
+		"rental_id" : 341,
+		"rental_date_key" : 20050527,
+		"customer_key" : 56,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 341,
+		"rental_id" : 342,
+		"rental_date_key" : 20050527,
+		"customer_key" : 539,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 342,
+		"rental_id" : 343,
+		"rental_date_key" : 20050527,
+		"customer_key" : 455,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 343,
+		"rental_id" : 344,
+		"rental_date_key" : 20050527,
+		"customer_key" : 236,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 344,
+		"rental_id" : 345,
+		"rental_date_key" : 20050527,
+		"customer_key" : 144,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 345,
+		"rental_id" : 346,
+		"rental_date_key" : 20050527,
+		"customer_key" : 14,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 346,
+		"rental_id" : 347,
+		"rental_date_key" : 20050527,
+		"customer_key" : 378,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 347,
+		"rental_id" : 348,
+		"rental_date_key" : 20050527,
+		"customer_key" : 473,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 348,
+		"rental_id" : 349,
+		"rental_date_key" : 20050527,
+		"customer_key" : 36,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 349,
+		"rental_id" : 350,
+		"rental_date_key" : 20050527,
+		"customer_key" : 9,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 350,
+		"rental_id" : 351,
+		"rental_date_key" : 20050527,
+		"customer_key" : 118,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 351,
+		"rental_id" : 352,
+		"rental_date_key" : 20050527,
+		"customer_key" : 157,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 352,
+		"rental_id" : 353,
+		"rental_date_key" : 20050527,
+		"customer_key" : 503,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 353,
+		"rental_id" : 354,
+		"rental_date_key" : 20050527,
+		"customer_key" : 452,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 354,
+		"rental_id" : 355,
+		"rental_date_key" : 20050527,
+		"customer_key" : 446,
+		"inventory_key" : 141,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 355,
+		"rental_id" : 356,
+		"rental_date_key" : 20050527,
+		"customer_key" : 382,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 356,
+		"rental_id" : 357,
+		"rental_date_key" : 20050527,
+		"customer_key" : 198,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 357,
+		"rental_id" : 358,
+		"rental_date_key" : 20050527,
+		"customer_key" : 102,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 358,
+		"rental_id" : 359,
+		"rental_date_key" : 20050527,
+		"customer_key" : 152,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 359,
+		"rental_id" : 360,
+		"rental_date_key" : 20050527,
+		"customer_key" : 594,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 360,
+		"rental_id" : 361,
+		"rental_date_key" : 20050527,
+		"customer_key" : 587,
+		"inventory_key" : 6,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 361,
+		"rental_id" : 362,
+		"rental_date_key" : 20050527,
+		"customer_key" : 147,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 362,
+		"rental_id" : 363,
+		"rental_date_key" : 20050527,
+		"customer_key" : 345,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 363,
+		"rental_id" : 364,
+		"rental_date_key" : 20050527,
+		"customer_key" : 430,
+		"inventory_key" : 833,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 364,
+		"rental_id" : 365,
+		"rental_date_key" : 20050527,
+		"customer_key" : 167,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 365,
+		"rental_id" : 366,
+		"rental_date_key" : 20050527,
+		"customer_key" : 134,
+		"inventory_key" : 360,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 366,
+		"rental_id" : 367,
+		"rental_date_key" : 20050527,
+		"customer_key" : 439,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 367,
+		"rental_id" : 368,
+		"rental_date_key" : 20050527,
+		"customer_key" : 361,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 368,
+		"rental_id" : 369,
+		"rental_date_key" : 20050527,
+		"customer_key" : 508,
+		"inventory_key" : 944,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 369,
+		"rental_id" : 370,
+		"rental_date_key" : 20050527,
+		"customer_key" : 22,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 370,
+		"rental_id" : 371,
+		"rental_date_key" : 20050527,
+		"customer_key" : 295,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 371,
+		"rental_id" : 372,
+		"rental_date_key" : 20050527,
+		"customer_key" : 510,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 372,
+		"rental_id" : 373,
+		"rental_date_key" : 20050527,
+		"customer_key" : 464,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 373,
+		"rental_id" : 374,
+		"rental_date_key" : 20050527,
+		"customer_key" : 337,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 374,
+		"rental_id" : 375,
+		"rental_date_key" : 20050527,
+		"customer_key" : 306,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 375,
+		"rental_id" : 376,
+		"rental_date_key" : 20050527,
+		"customer_key" : 542,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 376,
+		"rental_id" : 377,
+		"rental_date_key" : 20050527,
+		"customer_key" : 170,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 377,
+		"rental_id" : 378,
+		"rental_date_key" : 20050527,
+		"customer_key" : 53,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 378,
+		"rental_id" : 379,
+		"rental_date_key" : 20050527,
+		"customer_key" : 584,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 379,
+		"rental_id" : 380,
+		"rental_date_key" : 20050527,
+		"customer_key" : 176,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 380,
+		"rental_id" : 381,
+		"rental_date_key" : 20050527,
+		"customer_key" : 371,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 381,
+		"rental_id" : 382,
+		"rental_date_key" : 20050527,
+		"customer_key" : 183,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 382,
+		"rental_id" : 383,
+		"rental_date_key" : 20050527,
+		"customer_key" : 298,
+		"inventory_key" : 955,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 383,
+		"rental_id" : 384,
+		"rental_date_key" : 20050527,
+		"customer_key" : 371,
+		"inventory_key" : 910,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 384,
+		"rental_id" : 385,
+		"rental_date_key" : 20050527,
+		"customer_key" : 213,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 385,
+		"rental_id" : 386,
+		"rental_date_key" : 20050527,
+		"customer_key" : 109,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 386,
+		"rental_id" : 387,
+		"rental_date_key" : 20050527,
+		"customer_key" : 506,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 387,
+		"rental_id" : 388,
+		"rental_date_key" : 20050527,
+		"customer_key" : 28,
+		"inventory_key" : 434,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 388,
+		"rental_id" : 389,
+		"rental_date_key" : 20050527,
+		"customer_key" : 500,
+		"inventory_key" : 691,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 389,
+		"rental_id" : 390,
+		"rental_date_key" : 20050527,
+		"customer_key" : 48,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 390,
+		"rental_id" : 391,
+		"rental_date_key" : 20050527,
+		"customer_key" : 197,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 391,
+		"rental_id" : 392,
+		"rental_date_key" : 20050527,
+		"customer_key" : 359,
+		"inventory_key" : 263,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 392,
+		"rental_id" : 393,
+		"rental_date_key" : 20050527,
+		"customer_key" : 251,
+		"inventory_key" : 145,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 393,
+		"rental_id" : 394,
+		"rental_date_key" : 20050527,
+		"customer_key" : 274,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 394,
+		"rental_id" : 395,
+		"rental_date_key" : 20050527,
+		"customer_key" : 575,
+		"inventory_key" : 752,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 395,
+		"rental_id" : 396,
+		"rental_date_key" : 20050527,
+		"customer_key" : 112,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 396,
+		"rental_id" : 397,
+		"rental_date_key" : 20050527,
+		"customer_key" : 544,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 397,
+		"rental_id" : 398,
+		"rental_date_key" : 20050527,
+		"customer_key" : 422,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 398,
+		"rental_id" : 399,
+		"rental_date_key" : 20050527,
+		"customer_key" : 204,
+		"inventory_key" : 553,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 399,
+		"rental_id" : 400,
+		"rental_date_key" : 20050527,
+		"customer_key" : 249,
+		"inventory_key" : 258,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 400,
+		"rental_id" : 401,
+		"rental_date_key" : 20050527,
+		"customer_key" : 46,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 401,
+		"rental_id" : 402,
+		"rental_date_key" : 20050527,
+		"customer_key" : 354,
+		"inventory_key" : 461,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 402,
+		"rental_id" : 403,
+		"rental_date_key" : 20050527,
+		"customer_key" : 424,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 403,
+		"rental_id" : 404,
+		"rental_date_key" : 20050527,
+		"customer_key" : 168,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 404,
+		"rental_id" : 405,
+		"rental_date_key" : 20050527,
+		"customer_key" : 272,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 405,
+		"rental_id" : 406,
+		"rental_date_key" : 20050527,
+		"customer_key" : 381,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 406,
+		"rental_id" : 407,
+		"rental_date_key" : 20050527,
+		"customer_key" : 44,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 407,
+		"rental_id" : 408,
+		"rental_date_key" : 20050527,
+		"customer_key" : 84,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 408,
+		"rental_id" : 409,
+		"rental_date_key" : 20050527,
+		"customer_key" : 220,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 409,
+		"rental_id" : 410,
+		"rental_date_key" : 20050527,
+		"customer_key" : 506,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 410,
+		"rental_id" : 411,
+		"rental_date_key" : 20050527,
+		"customer_key" : 388,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 411,
+		"rental_id" : 412,
+		"rental_date_key" : 20050527,
+		"customer_key" : 375,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 412,
+		"rental_id" : 413,
+		"rental_date_key" : 20050527,
+		"customer_key" : 307,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 413,
+		"rental_id" : 414,
+		"rental_date_key" : 20050527,
+		"customer_key" : 219,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 414,
+		"rental_id" : 415,
+		"rental_date_key" : 20050527,
+		"customer_key" : 304,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 415,
+		"rental_id" : 416,
+		"rental_date_key" : 20050527,
+		"customer_key" : 222,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 416,
+		"rental_id" : 417,
+		"rental_date_key" : 20050527,
+		"customer_key" : 475,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 417,
+		"rental_id" : 418,
+		"rental_date_key" : 20050527,
+		"customer_key" : 151,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 418,
+		"rental_id" : 419,
+		"rental_date_key" : 20050527,
+		"customer_key" : 77,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 419,
+		"rental_id" : 420,
+		"rental_date_key" : 20050527,
+		"customer_key" : 93,
+		"inventory_key" : 619,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 420,
+		"rental_id" : 421,
+		"rental_date_key" : 20050527,
+		"customer_key" : 246,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 421,
+		"rental_id" : 422,
+		"rental_date_key" : 20050527,
+		"customer_key" : 150,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 422,
+		"rental_id" : 423,
+		"rental_date_key" : 20050527,
+		"customer_key" : 284,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 423,
+		"rental_id" : 424,
+		"rental_date_key" : 20050527,
+		"customer_key" : 35,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 424,
+		"rental_id" : 425,
+		"rental_date_key" : 20050527,
+		"customer_key" : 182,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 425,
+		"rental_id" : 426,
+		"rental_date_key" : 20050527,
+		"customer_key" : 522,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 426,
+		"rental_id" : 427,
+		"rental_date_key" : 20050527,
+		"customer_key" : 288,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 427,
+		"rental_id" : 428,
+		"rental_date_key" : 20050527,
+		"customer_key" : 161,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 428,
+		"rental_id" : 429,
+		"rental_date_key" : 20050527,
+		"customer_key" : 498,
+		"inventory_key" : 129,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 429,
+		"rental_id" : 430,
+		"rental_date_key" : 20050527,
+		"customer_key" : 190,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 430,
+		"rental_id" : 431,
+		"rental_date_key" : 20050527,
+		"customer_key" : 334,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 431,
+		"rental_id" : 432,
+		"rental_date_key" : 20050527,
+		"customer_key" : 46,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 432,
+		"rental_id" : 433,
+		"rental_date_key" : 20050527,
+		"customer_key" : 574,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 433,
+		"rental_id" : 434,
+		"rental_date_key" : 20050527,
+		"customer_key" : 246,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 434,
+		"rental_id" : 435,
+		"rental_date_key" : 20050527,
+		"customer_key" : 3,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 435,
+		"rental_id" : 436,
+		"rental_date_key" : 20050527,
+		"customer_key" : 267,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 436,
+		"rental_id" : 437,
+		"rental_date_key" : 20050527,
+		"customer_key" : 525,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 437,
+		"rental_id" : 438,
+		"rental_date_key" : 20050527,
+		"customer_key" : 249,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 438,
+		"rental_id" : 439,
+		"rental_date_key" : 20050527,
+		"customer_key" : 319,
+		"inventory_key" : 354,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 439,
+		"rental_id" : 440,
+		"rental_date_key" : 20050527,
+		"customer_key" : 314,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 440,
+		"rental_id" : 441,
+		"rental_date_key" : 20050527,
+		"customer_key" : 54,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 441,
+		"rental_id" : 442,
+		"rental_date_key" : 20050527,
+		"customer_key" : 403,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 442,
+		"rental_id" : 443,
+		"rental_date_key" : 20050527,
+		"customer_key" : 547,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 443,
+		"rental_id" : 444,
+		"rental_date_key" : 20050527,
+		"customer_key" : 239,
+		"inventory_key" : 723,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 444,
+		"rental_id" : 445,
+		"rental_date_key" : 20050527,
+		"customer_key" : 293,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 445,
+		"rental_id" : 446,
+		"rental_date_key" : 20050527,
+		"customer_key" : 401,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 446,
+		"rental_id" : 447,
+		"rental_date_key" : 20050527,
+		"customer_key" : 133,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 447,
+		"rental_id" : 448,
+		"rental_date_key" : 20050527,
+		"customer_key" : 247,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 448,
+		"rental_id" : 449,
+		"rental_date_key" : 20050527,
+		"customer_key" : 172,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 449,
+		"rental_id" : 450,
+		"rental_date_key" : 20050527,
+		"customer_key" : 247,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 450,
+		"rental_id" : 451,
+		"rental_date_key" : 20050527,
+		"customer_key" : 87,
+		"inventory_key" : 205,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 451,
+		"rental_id" : 452,
+		"rental_date_key" : 20050527,
+		"customer_key" : 127,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 452,
+		"rental_id" : 453,
+		"rental_date_key" : 20050527,
+		"customer_key" : 529,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 453,
+		"rental_id" : 454,
+		"rental_date_key" : 20050527,
+		"customer_key" : 575,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 454,
+		"rental_id" : 455,
+		"rental_date_key" : 20050527,
+		"customer_key" : 343,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 455,
+		"rental_id" : 456,
+		"rental_date_key" : 20050527,
+		"customer_key" : 92,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 456,
+		"rental_id" : 457,
+		"rental_date_key" : 20050527,
+		"customer_key" : 300,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 457,
+		"rental_id" : 458,
+		"rental_date_key" : 20050527,
+		"customer_key" : 565,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 458,
+		"rental_id" : 459,
+		"rental_date_key" : 20050527,
+		"customer_key" : 468,
+		"inventory_key" : 597,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 459,
+		"rental_id" : 460,
+		"rental_date_key" : 20050527,
+		"customer_key" : 240,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 460,
+		"rental_id" : 461,
+		"rental_date_key" : 20050527,
+		"customer_key" : 447,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 461,
+		"rental_id" : 462,
+		"rental_date_key" : 20050527,
+		"customer_key" : 364,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 462,
+		"rental_id" : 463,
+		"rental_date_key" : 20050527,
+		"customer_key" : 21,
+		"inventory_key" : 826,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 463,
+		"rental_id" : 464,
+		"rental_date_key" : 20050527,
+		"customer_key" : 193,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 464,
+		"rental_id" : 465,
+		"rental_date_key" : 20050527,
+		"customer_key" : 261,
+		"inventory_key" : 20,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 465,
+		"rental_id" : 466,
+		"rental_date_key" : 20050527,
+		"customer_key" : 442,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 466,
+		"rental_id" : 467,
+		"rental_date_key" : 20050527,
+		"customer_key" : 557,
+		"inventory_key" : 339,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 467,
+		"rental_id" : 468,
+		"rental_date_key" : 20050527,
+		"customer_key" : 101,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 468,
+		"rental_id" : 469,
+		"rental_date_key" : 20050527,
+		"customer_key" : 154,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 469,
+		"rental_id" : 470,
+		"rental_date_key" : 20050527,
+		"customer_key" : 504,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 470,
+		"rental_id" : 471,
+		"rental_date_key" : 20050527,
+		"customer_key" : 209,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 471,
+		"rental_id" : 472,
+		"rental_date_key" : 20050527,
+		"customer_key" : 528,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 472,
+		"rental_id" : 473,
+		"rental_date_key" : 20050527,
+		"customer_key" : 105,
+		"inventory_key" : 802,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 473,
+		"rental_id" : 474,
+		"rental_date_key" : 20050527,
+		"customer_key" : 274,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 474,
+		"rental_id" : 475,
+		"rental_date_key" : 20050527,
+		"customer_key" : 159,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 475,
+		"rental_id" : 476,
+		"rental_date_key" : 20050527,
+		"customer_key" : 543,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 476,
+		"rental_id" : 477,
+		"rental_date_key" : 20050527,
+		"customer_key" : 161,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 477,
+		"rental_id" : 478,
+		"rental_date_key" : 20050527,
+		"customer_key" : 557,
+		"inventory_key" : 424,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 478,
+		"rental_id" : 479,
+		"rental_date_key" : 20050527,
+		"customer_key" : 231,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 479,
+		"rental_id" : 480,
+		"rental_date_key" : 20050527,
+		"customer_key" : 220,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 480,
+		"rental_id" : 481,
+		"rental_date_key" : 20050527,
+		"customer_key" : 445,
+		"inventory_key" : 72,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 481,
+		"rental_id" : 482,
+		"rental_date_key" : 20050527,
+		"customer_key" : 546,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 482,
+		"rental_id" : 483,
+		"rental_date_key" : 20050527,
+		"customer_key" : 32,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 483,
+		"rental_id" : 484,
+		"rental_date_key" : 20050527,
+		"customer_key" : 491,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 484,
+		"rental_id" : 485,
+		"rental_date_key" : 20050527,
+		"customer_key" : 105,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 485,
+		"rental_id" : 486,
+		"rental_date_key" : 20050527,
+		"customer_key" : 398,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 486,
+		"rental_id" : 487,
+		"rental_date_key" : 20050528,
+		"customer_key" : 569,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 487,
+		"rental_id" : 488,
+		"rental_date_key" : 20050528,
+		"customer_key" : 168,
+		"inventory_key" : 393,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 488,
+		"rental_id" : 489,
+		"rental_date_key" : 20050528,
+		"customer_key" : 476,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 489,
+		"rental_id" : 490,
+		"rental_date_key" : 20050528,
+		"customer_key" : 95,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 490,
+		"rental_id" : 491,
+		"rental_date_key" : 20050528,
+		"customer_key" : 196,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 491,
+		"rental_id" : 492,
+		"rental_date_key" : 20050528,
+		"customer_key" : 228,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 492,
+		"rental_id" : 493,
+		"rental_date_key" : 20050528,
+		"customer_key" : 501,
+		"inventory_key" : 184,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 493,
+		"rental_id" : 494,
+		"rental_date_key" : 20050528,
+		"customer_key" : 64,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 494,
+		"rental_id" : 495,
+		"rental_date_key" : 20050528,
+		"customer_key" : 526,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 495,
+		"rental_id" : 496,
+		"rental_date_key" : 20050528,
+		"customer_key" : 56,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 496,
+		"rental_id" : 497,
+		"rental_date_key" : 20050528,
+		"customer_key" : 20,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 497,
+		"rental_id" : 498,
+		"rental_date_key" : 20050528,
+		"customer_key" : 287,
+		"inventory_key" : 458,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 498,
+		"rental_id" : 499,
+		"rental_date_key" : 20050528,
+		"customer_key" : 199,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 499,
+		"rental_id" : 500,
+		"rental_date_key" : 20050528,
+		"customer_key" : 145,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 500,
+		"rental_id" : 501,
+		"rental_date_key" : 20050528,
+		"customer_key" : 162,
+		"inventory_key" : 601,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 501,
+		"rental_id" : 502,
+		"rental_date_key" : 20050528,
+		"customer_key" : 179,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 502,
+		"rental_id" : 503,
+		"rental_date_key" : 20050528,
+		"customer_key" : 288,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 503,
+		"rental_id" : 504,
+		"rental_date_key" : 20050528,
+		"customer_key" : 170,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 504,
+		"rental_id" : 505,
+		"rental_date_key" : 20050528,
+		"customer_key" : 111,
+		"inventory_key" : 71,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 505,
+		"rental_id" : 506,
+		"rental_date_key" : 20050528,
+		"customer_key" : 469,
+		"inventory_key" : 667,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 506,
+		"rental_id" : 507,
+		"rental_date_key" : 20050528,
+		"customer_key" : 421,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 507,
+		"rental_id" : 508,
+		"rental_date_key" : 20050528,
+		"customer_key" : 434,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 508,
+		"rental_id" : 509,
+		"rental_date_key" : 20050528,
+		"customer_key" : 147,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 509,
+		"rental_id" : 510,
+		"rental_date_key" : 20050528,
+		"customer_key" : 113,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 510,
+		"rental_id" : 511,
+		"rental_date_key" : 20050528,
+		"customer_key" : 296,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 511,
+		"rental_id" : 512,
+		"rental_date_key" : 20050528,
+		"customer_key" : 231,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 512,
+		"rental_id" : 513,
+		"rental_date_key" : 20050528,
+		"customer_key" : 489,
+		"inventory_key" : 225,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 513,
+		"rental_id" : 514,
+		"rental_date_key" : 20050528,
+		"customer_key" : 597,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 514,
+		"rental_id" : 515,
+		"rental_date_key" : 20050528,
+		"customer_key" : 110,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 515,
+		"rental_id" : 516,
+		"rental_date_key" : 20050528,
+		"customer_key" : 400,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 516,
+		"rental_id" : 517,
+		"rental_date_key" : 20050528,
+		"customer_key" : 403,
+		"inventory_key" : 234,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 517,
+		"rental_id" : 518,
+		"rental_date_key" : 20050528,
+		"customer_key" : 480,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 518,
+		"rental_id" : 519,
+		"rental_date_key" : 20050528,
+		"customer_key" : 245,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 519,
+		"rental_id" : 520,
+		"rental_date_key" : 20050528,
+		"customer_key" : 161,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 520,
+		"rental_id" : 521,
+		"rental_date_key" : 20050528,
+		"customer_key" : 374,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 521,
+		"rental_id" : 522,
+		"rental_date_key" : 20050528,
+		"customer_key" : 382,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 522,
+		"rental_id" : 523,
+		"rental_date_key" : 20050528,
+		"customer_key" : 138,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 523,
+		"rental_id" : 524,
+		"rental_date_key" : 20050528,
+		"customer_key" : 223,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 524,
+		"rental_id" : 525,
+		"rental_date_key" : 20050528,
+		"customer_key" : 14,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 525,
+		"rental_id" : 526,
+		"rental_date_key" : 20050528,
+		"customer_key" : 408,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 526,
+		"rental_id" : 527,
+		"rental_date_key" : 20050528,
+		"customer_key" : 169,
+		"inventory_key" : 266,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 527,
+		"rental_id" : 528,
+		"rental_date_key" : 20050528,
+		"customer_key" : 359,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 528,
+		"rental_id" : 529,
+		"rental_date_key" : 20050528,
+		"customer_key" : 469,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 529,
+		"rental_id" : 530,
+		"rental_date_key" : 20050528,
+		"customer_key" : 312,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 530,
+		"rental_id" : 531,
+		"rental_date_key" : 20050528,
+		"customer_key" : 589,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 531,
+		"rental_id" : 532,
+		"rental_date_key" : 20050528,
+		"customer_key" : 120,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 532,
+		"rental_id" : 533,
+		"rental_date_key" : 20050528,
+		"customer_key" : 528,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 533,
+		"rental_id" : 534,
+		"rental_date_key" : 20050528,
+		"customer_key" : 184,
+		"inventory_key" : 992,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 534,
+		"rental_id" : 535,
+		"rental_date_key" : 20050528,
+		"customer_key" : 307,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 535,
+		"rental_id" : 536,
+		"rental_date_key" : 20050528,
+		"customer_key" : 514,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 536,
+		"rental_id" : 537,
+		"rental_date_key" : 20050528,
+		"customer_key" : 315,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 537,
+		"rental_id" : 538,
+		"rental_date_key" : 20050528,
+		"customer_key" : 110,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 538,
+		"rental_id" : 539,
+		"rental_date_key" : 20050528,
+		"customer_key" : 161,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 539,
+		"rental_id" : 540,
+		"rental_date_key" : 20050528,
+		"customer_key" : 119,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 540,
+		"rental_id" : 541,
+		"rental_date_key" : 20050528,
+		"customer_key" : 535,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 541,
+		"rental_id" : 542,
+		"rental_date_key" : 20050528,
+		"customer_key" : 261,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 542,
+		"rental_id" : 543,
+		"rental_date_key" : 20050528,
+		"customer_key" : 493,
+		"inventory_key" : 530,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 543,
+		"rental_id" : 544,
+		"rental_date_key" : 20050528,
+		"customer_key" : 311,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 544,
+		"rental_id" : 545,
+		"rental_date_key" : 20050528,
+		"customer_key" : 54,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 545,
+		"rental_id" : 546,
+		"rental_date_key" : 20050528,
+		"customer_key" : 20,
+		"inventory_key" : 487,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 546,
+		"rental_id" : 547,
+		"rental_date_key" : 20050528,
+		"customer_key" : 506,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 547,
+		"rental_id" : 548,
+		"rental_date_key" : 20050528,
+		"customer_key" : 450,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 548,
+		"rental_id" : 549,
+		"rental_date_key" : 20050528,
+		"customer_key" : 159,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 549,
+		"rental_id" : 550,
+		"rental_date_key" : 20050528,
+		"customer_key" : 432,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 550,
+		"rental_id" : 551,
+		"rental_date_key" : 20050528,
+		"customer_key" : 315,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 551,
+		"rental_id" : 552,
+		"rental_date_key" : 20050528,
+		"customer_key" : 106,
+		"inventory_key" : 23,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 552,
+		"rental_id" : 553,
+		"rental_date_key" : 20050528,
+		"customer_key" : 176,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 553,
+		"rental_id" : 554,
+		"rental_date_key" : 20050528,
+		"customer_key" : 376,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 554,
+		"rental_id" : 555,
+		"rental_date_key" : 20050528,
+		"customer_key" : 55,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 555,
+		"rental_id" : 556,
+		"rental_date_key" : 20050528,
+		"customer_key" : 22,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 556,
+		"rental_id" : 557,
+		"rental_date_key" : 20050528,
+		"customer_key" : 444,
+		"inventory_key" : 158,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 557,
+		"rental_id" : 558,
+		"rental_date_key" : 20050528,
+		"customer_key" : 442,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 558,
+		"rental_id" : 559,
+		"rental_date_key" : 20050528,
+		"customer_key" : 572,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 559,
+		"rental_id" : 560,
+		"rental_date_key" : 20050528,
+		"customer_key" : 463,
+		"inventory_key" : 644,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 560,
+		"rental_id" : 561,
+		"rental_date_key" : 20050528,
+		"customer_key" : 77,
+		"inventory_key" : 928,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 561,
+		"rental_id" : 562,
+		"rental_date_key" : 20050528,
+		"customer_key" : 102,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 562,
+		"rental_id" : 563,
+		"rental_date_key" : 20050528,
+		"customer_key" : 324,
+		"inventory_key" : 53,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 563,
+		"rental_id" : 564,
+		"rental_date_key" : 20050528,
+		"customer_key" : 282,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 564,
+		"rental_id" : 565,
+		"rental_date_key" : 20050528,
+		"customer_key" : 288,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 565,
+		"rental_id" : 566,
+		"rental_date_key" : 20050528,
+		"customer_key" : 253,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 566,
+		"rental_id" : 567,
+		"rental_date_key" : 20050528,
+		"customer_key" : 184,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 567,
+		"rental_id" : 568,
+		"rental_date_key" : 20050528,
+		"customer_key" : 155,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 568,
+		"rental_id" : 569,
+		"rental_date_key" : 20050528,
+		"customer_key" : 56,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 569,
+		"rental_id" : 570,
+		"rental_date_key" : 20050528,
+		"customer_key" : 21,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 570,
+		"rental_id" : 571,
+		"rental_date_key" : 20050528,
+		"customer_key" : 516,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 571,
+		"rental_id" : 572,
+		"rental_date_key" : 20050528,
+		"customer_key" : 337,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 572,
+		"rental_id" : 573,
+		"rental_date_key" : 20050528,
+		"customer_key" : 1,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 573,
+		"rental_id" : 574,
+		"rental_date_key" : 20050528,
+		"customer_key" : 76,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 574,
+		"rental_id" : 575,
+		"rental_date_key" : 20050528,
+		"customer_key" : 142,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 575,
+		"rental_id" : 576,
+		"rental_date_key" : 20050528,
+		"customer_key" : 588,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 576,
+		"rental_id" : 577,
+		"rental_date_key" : 20050528,
+		"customer_key" : 6,
+		"inventory_key" : 375,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 577,
+		"rental_id" : 578,
+		"rental_date_key" : 20050528,
+		"customer_key" : 173,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 578,
+		"rental_id" : 579,
+		"rental_date_key" : 20050528,
+		"customer_key" : 181,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 579,
+		"rental_id" : 580,
+		"rental_date_key" : 20050528,
+		"customer_key" : 17,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 580,
+		"rental_id" : 581,
+		"rental_date_key" : 20050528,
+		"customer_key" : 186,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 581,
+		"rental_id" : 582,
+		"rental_date_key" : 20050528,
+		"customer_key" : 198,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 582,
+		"rental_id" : 583,
+		"rental_date_key" : 20050528,
+		"customer_key" : 386,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 583,
+		"rental_id" : 584,
+		"rental_date_key" : 20050528,
+		"customer_key" : 69,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 584,
+		"rental_id" : 585,
+		"rental_date_key" : 20050528,
+		"customer_key" : 490,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 585,
+		"rental_id" : 586,
+		"rental_date_key" : 20050528,
+		"customer_key" : 77,
+		"inventory_key" : 898,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 586,
+		"rental_id" : 587,
+		"rental_date_key" : 20050528,
+		"customer_key" : 64,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 587,
+		"rental_id" : 588,
+		"rental_date_key" : 20050528,
+		"customer_key" : 89,
+		"inventory_key" : 95,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 588,
+		"rental_id" : 589,
+		"rental_date_key" : 20050528,
+		"customer_key" : 308,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 589,
+		"rental_id" : 590,
+		"rental_date_key" : 20050528,
+		"customer_key" : 462,
+		"inventory_key" : 473,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 590,
+		"rental_id" : 591,
+		"rental_date_key" : 20050528,
+		"customer_key" : 19,
+		"inventory_key" : 377,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 591,
+		"rental_id" : 592,
+		"rental_date_key" : 20050528,
+		"customer_key" : 244,
+		"inventory_key" : 638,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 592,
+		"rental_id" : 593,
+		"rental_date_key" : 20050528,
+		"customer_key" : 16,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 593,
+		"rental_id" : 594,
+		"rental_date_key" : 20050528,
+		"customer_key" : 538,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 594,
+		"rental_id" : 595,
+		"rental_date_key" : 20050528,
+		"customer_key" : 294,
+		"inventory_key" : 595,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 595,
+		"rental_id" : 596,
+		"rental_date_key" : 20050528,
+		"customer_key" : 589,
+		"inventory_key" : 821,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 596,
+		"rental_id" : 597,
+		"rental_date_key" : 20050528,
+		"customer_key" : 249,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 597,
+		"rental_id" : 598,
+		"rental_date_key" : 20050528,
+		"customer_key" : 159,
+		"inventory_key" : 599,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 598,
+		"rental_id" : 599,
+		"rental_date_key" : 20050528,
+		"customer_key" : 393,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 599,
+		"rental_id" : 600,
+		"rental_date_key" : 20050528,
+		"customer_key" : 332,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 600,
+		"rental_id" : 601,
+		"rental_date_key" : 20050528,
+		"customer_key" : 429,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 601,
+		"rental_id" : 602,
+		"rental_date_key" : 20050528,
+		"customer_key" : 590,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 602,
+		"rental_id" : 603,
+		"rental_date_key" : 20050528,
+		"customer_key" : 537,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 603,
+		"rental_id" : 604,
+		"rental_date_key" : 20050528,
+		"customer_key" : 426,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 604,
+		"rental_id" : 605,
+		"rental_date_key" : 20050528,
+		"customer_key" : 501,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 605,
+		"rental_id" : 606,
+		"rental_date_key" : 20050528,
+		"customer_key" : 299,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 606,
+		"rental_id" : 607,
+		"rental_date_key" : 20050528,
+		"customer_key" : 554,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 607,
+		"rental_id" : 608,
+		"rental_date_key" : 20050528,
+		"customer_key" : 494,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 608,
+		"rental_id" : 609,
+		"rental_date_key" : 20050528,
+		"customer_key" : 150,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 609,
+		"rental_id" : 610,
+		"rental_date_key" : 20050528,
+		"customer_key" : 500,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 610,
+		"rental_id" : 611,
+		"rental_date_key" : 20050528,
+		"customer_key" : 580,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 611,
+		"rental_id" : 612,
+		"rental_date_key" : 20050528,
+		"customer_key" : 161,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 612,
+		"rental_id" : 613,
+		"rental_date_key" : 20050528,
+		"customer_key" : 595,
+		"inventory_key" : 270,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 613,
+		"rental_id" : 614,
+		"rental_date_key" : 20050528,
+		"customer_key" : 307,
+		"inventory_key" : 280,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 614,
+		"rental_id" : 615,
+		"rental_date_key" : 20050528,
+		"customer_key" : 533,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 615,
+		"rental_id" : 616,
+		"rental_date_key" : 20050528,
+		"customer_key" : 471,
+		"inventory_key" : 989,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 616,
+		"rental_id" : 617,
+		"rental_date_key" : 20050528,
+		"customer_key" : 372,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 617,
+		"rental_id" : 618,
+		"rental_date_key" : 20050528,
+		"customer_key" : 248,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 618,
+		"rental_id" : 619,
+		"rental_date_key" : 20050528,
+		"customer_key" : 407,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 619,
+		"rental_id" : 620,
+		"rental_date_key" : 20050528,
+		"customer_key" : 321,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 620,
+		"rental_id" : 621,
+		"rental_date_key" : 20050528,
+		"customer_key" : 239,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 621,
+		"rental_id" : 622,
+		"rental_date_key" : 20050528,
+		"customer_key" : 109,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 622,
+		"rental_id" : 623,
+		"rental_date_key" : 20050528,
+		"customer_key" : 495,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 623,
+		"rental_id" : 624,
+		"rental_date_key" : 20050528,
+		"customer_key" : 569,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 624,
+		"rental_id" : 625,
+		"rental_date_key" : 20050528,
+		"customer_key" : 596,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 625,
+		"rental_id" : 626,
+		"rental_date_key" : 20050528,
+		"customer_key" : 584,
+		"inventory_key" : 452,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 626,
+		"rental_id" : 627,
+		"rental_date_key" : 20050528,
+		"customer_key" : 241,
+		"inventory_key" : 425,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 627,
+		"rental_id" : 628,
+		"rental_date_key" : 20050528,
+		"customer_key" : 173,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 628,
+		"rental_id" : 629,
+		"rental_date_key" : 20050528,
+		"customer_key" : 94,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 629,
+		"rental_id" : 630,
+		"rental_date_key" : 20050528,
+		"customer_key" : 417,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 630,
+		"rental_id" : 631,
+		"rental_date_key" : 20050528,
+		"customer_key" : 503,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 631,
+		"rental_id" : 632,
+		"rental_date_key" : 20050528,
+		"customer_key" : 442,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 632,
+		"rental_id" : 633,
+		"rental_date_key" : 20050528,
+		"customer_key" : 360,
+		"inventory_key" : 58,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 633,
+		"rental_id" : 634,
+		"rental_date_key" : 20050528,
+		"customer_key" : 428,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 634,
+		"rental_id" : 635,
+		"rental_date_key" : 20050528,
+		"customer_key" : 42,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 635,
+		"rental_id" : 636,
+		"rental_date_key" : 20050528,
+		"customer_key" : 239,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 636,
+		"rental_id" : 637,
+		"rental_date_key" : 20050528,
+		"customer_key" : 250,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 637,
+		"rental_id" : 638,
+		"rental_date_key" : 20050528,
+		"customer_key" : 372,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 638,
+		"rental_id" : 639,
+		"rental_date_key" : 20050528,
+		"customer_key" : 198,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 639,
+		"rental_id" : 640,
+		"rental_date_key" : 20050528,
+		"customer_key" : 465,
+		"inventory_key" : 495,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 640,
+		"rental_id" : 641,
+		"rental_date_key" : 20050528,
+		"customer_key" : 396,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 641,
+		"rental_id" : 642,
+		"rental_date_key" : 20050528,
+		"customer_key" : 157,
+		"inventory_key" : 140,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 642,
+		"rental_id" : 643,
+		"rental_date_key" : 20050528,
+		"customer_key" : 240,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 643,
+		"rental_id" : 644,
+		"rental_date_key" : 20050528,
+		"customer_key" : 316,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 644,
+		"rental_id" : 645,
+		"rental_date_key" : 20050528,
+		"customer_key" : 505,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 645,
+		"rental_id" : 646,
+		"rental_date_key" : 20050528,
+		"customer_key" : 185,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 646,
+		"rental_id" : 647,
+		"rental_date_key" : 20050528,
+		"customer_key" : 569,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 647,
+		"rental_id" : 648,
+		"rental_date_key" : 20050528,
+		"customer_key" : 253,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 648,
+		"rental_id" : 649,
+		"rental_date_key" : 20050528,
+		"customer_key" : 197,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 649,
+		"rental_id" : 650,
+		"rental_date_key" : 20050528,
+		"customer_key" : 281,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 650,
+		"rental_id" : 651,
+		"rental_date_key" : 20050528,
+		"customer_key" : 266,
+		"inventory_key" : 739,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 651,
+		"rental_id" : 652,
+		"rental_date_key" : 20050528,
+		"customer_key" : 43,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 652,
+		"rental_id" : 653,
+		"rental_date_key" : 20050528,
+		"customer_key" : 327,
+		"inventory_key" : 126,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 653,
+		"rental_id" : 654,
+		"rental_date_key" : 20050528,
+		"customer_key" : 23,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 654,
+		"rental_id" : 655,
+		"rental_date_key" : 20050528,
+		"customer_key" : 287,
+		"inventory_key" : 331,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 655,
+		"rental_id" : 656,
+		"rental_date_key" : 20050528,
+		"customer_key" : 437,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 656,
+		"rental_id" : 657,
+		"rental_date_key" : 20050528,
+		"customer_key" : 65,
+		"inventory_key" : 848,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 657,
+		"rental_id" : 658,
+		"rental_date_key" : 20050528,
+		"customer_key" : 103,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 658,
+		"rental_id" : 659,
+		"rental_date_key" : 20050528,
+		"customer_key" : 207,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 659,
+		"rental_id" : 660,
+		"rental_date_key" : 20050528,
+		"customer_key" : 578,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 660,
+		"rental_id" : 661,
+		"rental_date_key" : 20050528,
+		"customer_key" : 51,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 661,
+		"rental_id" : 662,
+		"rental_date_key" : 20050528,
+		"customer_key" : 166,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 662,
+		"rental_id" : 663,
+		"rental_date_key" : 20050528,
+		"customer_key" : 176,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 663,
+		"rental_id" : 664,
+		"rental_date_key" : 20050528,
+		"customer_key" : 523,
+		"inventory_key" : 87,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 664,
+		"rental_id" : 665,
+		"rental_date_key" : 20050528,
+		"customer_key" : 415,
+		"inventory_key" : null,
+		"staff_key" : 1
+	},
+	{
+		"fact_rental_key" : 665,
+		"rental_id" : 666,
+		"rental_date_key" : 20050528,
+		"customer_key" : 437,
+		"inventory_key" : null,
+		"staff_key" : 2
+	},
+	{
+		"fact_rental_key" : 666,
+		"rental_id" : 667,
+		"rental_date_key" : 20050528,
+		"customer_key" : 596,
+		"inventory_key" : 797,
+		"staff_key" : 1
+	}
+]
